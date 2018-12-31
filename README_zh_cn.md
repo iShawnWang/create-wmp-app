@@ -2,20 +2,17 @@
 
 [![](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/create-wmp-app)[![](https://img.shields.io/bundlephobia/min/react.svg)](https://github.com/iShawnWang/create-wmp-app)
 
-Wechat miniprogram starter cli
+微信小程序基础工程 
 
 
 
-[中文介绍](./README_zh_cn.md)
-
-
-
-# Install
+# 安装
 
 `npm install -g create-wmp-app`
 
 
 
-# Usage
+# 使用
 
-`create-wmp-app <your project dir>`
+`create-wmp-app <工程目录>`
+
