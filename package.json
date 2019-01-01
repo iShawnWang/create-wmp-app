@@ -13,5 +13,9 @@
     "wmp"
   ],
   "author": "Shawn Wang",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.2.1"
+  }
 }
