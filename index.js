@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const D = require('download-git-repo')
 const fs = require('fs')
 const e = console.error
